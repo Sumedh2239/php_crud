@@ -9,8 +9,9 @@ A simple PHP-based CRUD (Create, Read, Update, Delete) application for managing 
 - **Read**: View a list of all products in a table.
   ![image alt](https://github.com/Sumedh2239/php_crud/blob/eac11c08b31ce25ac14934ca0d19c9d41a4d7351/PRODUCT_MANAGEMENT.png)
 - **Update**: Edit existing product details.
-  
+  ![image alt](https://github.com/Sumedh2239/php_crud/blob/master/EDIT_PRODUCT.png?raw=true)
 - **Delete**: Remove products with confirmation.
+  ![image alt]()
 - **Visualization**: Chart displaying product count by category.
 
 ## Prerequisites
