@@ -16,6 +16,7 @@ A simple PHP-based CRUD (Create, Read, Update, Delete) application for managing 
   ![image alt](https://github.com/Sumedh2239/php_crud/blob/master/DELETE_PRODUCT.png?raw=true)
 
 - **Visualization**: Chart displaying product count by category.
+- Since there is a small flaw in problem statement for not showing qty of products, we have to also add quantity variable in the edit and create modules
 ![image alt](https://github.com/Sumedh2239/php_crud/blob/master/Screenshot%20(621).png?raw=true) 
 
 ## Prerequisites
